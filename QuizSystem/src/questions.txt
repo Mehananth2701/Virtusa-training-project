@@ -1,0 +1,3 @@
+What is Java?|Programming Language|Database|Browser|Game|A
+Which keyword is used for inheritance?|this|super|extends|final|CWhat is Java?|Programming Language|Animal|Car|Game|A
+What is Java?|Programming Language|Animal|Car|Game|A
